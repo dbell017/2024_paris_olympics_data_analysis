@@ -2,17 +2,14 @@
 
 An exploratory analysis of athlete and medal data from the 2024 Paris Olympics, combining three datasets to examine athlete demographics, country participation, and the relationship between national GDP and Olympic performance.
 
-## Datasets
-
-- **Source:** Provided as part of the Intermediate Data Analytics Bootcamp at Point Park University
-- **Contents:** Athlete demographics, medallist records, and World Bank GDP data for the 2024 Paris Olympics
-- **Size:** 11,000+ athletes across 200+ countries
+The dataset includes athlete demographics, medallist records, and World Bank GDP data for the 2024 Paris Olympics
+representing 11,000+ athletes across 200+ countries.
 
 ## Tools and Libraries
 
 Python, pandas, numpy, matplotlib, seaborn, scipy
 
-## What This Project Covers
+## Analyses
 
 - Descriptive statistics on athlete age, height, weight, and gender across all competing nations
 - Comparisons between American and non-American athletes across demographic measures
