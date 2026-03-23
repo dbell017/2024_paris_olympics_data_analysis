@@ -2,7 +2,7 @@
 
 An exploratory analysis of athlete and medal data from the 2024 Paris Olympics, combining three datasets to examine athlete demographics, country participation, and the relationship between national GDP and Olympic performance.
 
-The dataset includes athlete demographics, medallist records, and World Bank GDP data for the 2024 Paris Olympics
+The combined dataset includes athlete demographics, medallist records, and World Bank GDP data for the 2024 Paris Olympics
 representing 11,000+ athletes across 200+ countries.
 
 ## Tools and Libraries
