@@ -22,5 +22,5 @@ Python, pandas, numpy, matplotlib, seaborn, scipy
 | File | Description |
 |------|-------------|
 | `2024_olympics_data.ipynb` | Jupyter Notebook with full analysis |
-| `olympics_cleaned.csv` | Merged and cleaned dataset |
+| `2024_olympics_data_cleaned.csv` | Merged and cleaned dataset |
 | `2024_olympics_presentation.pdf` | Summary presentation of key findings |
