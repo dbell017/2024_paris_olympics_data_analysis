@@ -23,5 +23,4 @@ Python, pandas, numpy, matplotlib, seaborn, scipy
 |------|-------------|
 | `2024_olympics_data.ipynb` | Jupyter Notebook with full analysis |
 | `olympics_cleaned.csv` | Merged and cleaned dataset |
-| `presentation.pptx` | Summary presentation of key findings |
-| `visualizations/` | Folder containing exported chart images |
+| `2024_olympics_presentation.pdf` | Summary presentation of key findings |
